@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Shane Healy
+# 👋 Hi, I'm Sadelco
 
-🚀 **AI Security Researcher | Cybersecurity Engineer | AI Agent Builder**
+🚀 **LLM/AI Security Researcher | Cybersecurity Engineer | AI Agent Builder | Red Team Tester **
 
 I build **AI security testing systems, autonomous agents, and LLM red-team tools** using modern frameworks like **CrewAI, Ollama, Docker, and Python**.
 
