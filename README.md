@@ -1,129 +1,174 @@
 # 👋 Hi, I'm Sadelco
 
-🚀 **LLM/AI Security Researcher | Cybersecurity Engineer | AI Agent Builder | Red Team Tester **
+🚀 **AI Security Researcher | Cybersecurity Engineer | LLM Red Team Tester | AI Agent Builder**
 
-I build **AI security testing systems, autonomous agents, and LLM red-team tools** using modern frameworks like **CrewAI, Ollama, Docker, and Python**.
-
-My work focuses on the **security of Large Language Models (LLMs)** — including **prompt injection, guardrail evaluation, and adversarial testing pipelines**.
+I design and build **AI security testing systems, adversarial evaluation pipelines, and autonomous agent frameworks** focused on the safe deployment of Large Language Models (LLMs).
 
 ---
 
-# 🔐 Current Focus
+# 🔐 What I Do
 
-- 🤖 Building **AI agent systems**
-- 🛡️ Red-teaming **Large Language Models**
-- 🧠 Exploring **AI security & adversarial attacks**
-- ⚙️ Creating **local LLM pipelines with Ollama**
-- 🧪 Developing **AI testing frameworks**
+- 🛡️ Red-team **LLMs and AI systems**
+- 🤖 Build **multi-agent AI security pipelines**
+- 🧪 Develop **LLM evaluation & benchmarking frameworks**
+- ⚙️ Run **local AI infrastructure (Ollama + Docker)**
+- 📊 Design **quantitative security scoring systems**
 
 ---
 
 # 🧠 AI Security Lab
 
-I'm currently building a **multi-stage AI security testing lab** using autonomous agents.
+I’ve built a **multi-stage AI security testing lab** using CrewAI, evolving from simple agents into a full **LLM evaluation framework**.
 
-### Current pipeline
+### 🔁 End-to-End Pipeline
 
 ```mermaid
 flowchart LR
-    A[Prompt Injection Agent] --> B[Guardrail Evaluator]
+    A[Prompt Injection Tester] --> B[Guardrail Evaluator]
     B --> C[Response Analyzer]
-    C --> D[Security Report]
+    C --> D[Live Attack Tester]
+    D --> E[Multi-Prompt Runner]
+    E --> F[Multi-Model Comparator]
+    F --> G[YAML Runner]
+    G --> H[Scoring Engine]
+    H --> I[Report Exporter]
 ```
 
-### Projects
+---
+
+# 📦 AI Security Lab Projects
 
 | Project | Description |
-|------|------|
-| `09_basic_agent` | First CrewAI autonomous agent |
-| `10_prompt_injection_tester` | Adversarial prompt generator |
+|--------|-------------|
+| `09_basic_agent` | CrewAI fundamentals |
+| `10_prompt_injection_tester` | Adversarial prompt generation |
 | `11_guardrail_evaluator` | Guardrail behaviour analysis |
-| `12_response_analyzer` | LLM output security classification |
-| `13_live_llm_attack_tester` | Live attacks |
-| `14_multi_prompt_attack_runner` | Batch testing |
-| `15_multi_model_attack_comparator` | Model comparison |
+| `12_response_analyzer_agent` | Response classification |
+| `13_live_llm_attack_tester` | Real-time LLM attacks |
+| `14_multi_prompt_attack_runner` | Batch adversarial testing |
+| `15_multi_model_attack_comparator` | Cross-model comparison |
 | `16_yaml_prompt_runner` | Config-driven execution |
-| `17_scoring_engine` | Quantitative scoring |
-| `18_report_exporter` | **Persistent reporting & exports** |
+| `17_scoring_engine` | **Security metrics & benchmarking** |
+| `18_report_exporter` | **Persistent outputs (JSON / CSV / MD)** |
+
+---
+
+# 📊 What Makes This Different
+
+This isn’t just experimentation — it’s a **structured AI security framework**.
+
+The system supports:
+
+- ✅ Adversarial testing
+- ✅ Multi-model evaluation
+- ✅ AI-driven classification
+- ✅ Quantitative scoring
+- ✅ Risk benchmarking
+- ✅ Exportable security reports
 
 ---
 
 # 🛠 Tech Stack
 
-### AI / LLM
+### 🤖 AI / LLM
 - Python
 - CrewAI
-- Ollama
-- LangChain
+- Ollama (local LLM runtime)
+- LangChain *(learning phase)*
 - Promptfoo
 - DeepEval
 
-### Security
-- AI Red Teaming
+### 🔐 AI Security
 - Prompt Injection Testing
-- Guardrail Analysis
-- LLM Safety Evaluation
+- LLM Red Teaming
+- Guardrail Evaluation
+- Adversarial Attack Design
+- Model Benchmarking
 
-### Engineering
-- Docker
-- Docker Compose
-- Linux
+### ⚙️ Engineering
+- Docker / Docker Compose
+- Linux (Pop!_OS / WSL)
 - Git / GitHub
 - VS Code
 
 ---
 
-# 📚 Education
+# 📊 Example Capabilities
+
+- Run **multi-model adversarial attacks**
+- Classify outputs into:
+  - Safe Refusal
+  - Partial Compliance
+  - Jailbreak Success
+  - Data Leakage
+- Generate:
+  - Risk Scores
+  - Refusal Rates
+  - Benchmark Reports
+- Export results for:
+  - Analysis
+  - Reporting
+  - Visualisation
+
+---
+
+# 🎓 Education
 
 🎓 **MSc Cybersecurity, Privacy & Trust**
 
-Research focus:
+Focus:
 
-**Security vulnerabilities in Large Language Models**
+**Security vulnerabilities in Large Language Models (LLMs)**
 
-Topics explored:
+Key research areas:
 
 - Prompt injection attacks
-- Model jailbreak techniques
-- LLM data leakage
-- AI safety guardrails
+- Jailbreak techniques
+- Data leakage risks
+- AI guardrails and safety
 
 ---
 
-# 🚧 Current Projects
+# 🚧 Current Focus
 
-### AI Agent Lab
-
-A structured lab environment for building and testing autonomous AI systems.
-
-Features:
-
-- Local LLM infrastructure
-- Multi-agent orchestration
-- Security evaluation pipelines
-- Containerised runtime environments
+- 🔬 Building **AI red teaming frameworks**
+- 📊 Developing **LLM benchmarking systems**
+- 🤖 Expanding **multi-agent architectures**
+- ⚙️ Designing **evaluation pipelines at scale**
 
 ---
-
 
 # 🎯 Career Direction
 
-I'm transitioning into roles involving:
+I am transitioning into roles focused on:
 
 - **AI Security Engineering**
-- **LLM Safety & Red Teaming**
-- **AI Infrastructure Engineering**
-- **Autonomous Agent Systems**
+- **LLM Red Teaming**
+- **AI Safety & Evaluation**
+- **Adversarial AI Testing**
+- **Agentic AI Systems**
 
 ---
 
-# 🤝 Let's Connect
+# 📈 What I'm Building Toward
 
-- 💼 LinkedIn
-- 🔐 Cybersecurity
-- 🤖 AI Safety
+- Full **AI security evaluation platform**
+- Automated **LLM red teaming pipelines**
+- Benchmark datasets for **model comparison**
+- Integration with tools like:
+  - Promptfoo
+  - DeepEval
+  - LangChain
+
+---
+
+# 🤝 Let’s Connect
+
+- 💼 LinkedIn *(add your link here)*
+- 🔐 Cybersecurity & AI Security
+- 🤖 LLM Safety & Red Teaming
 - 🧠 Autonomous AI Systems
 
 ---
 
-⭐ If you're interested in **AI security, LLM safety, or agent systems**, feel free to explore my projects.
+⭐ If you're interested in **AI security, LLM safety, or agent-based systems**, check out my repositories or reach out.
