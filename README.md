@@ -39,6 +39,12 @@ flowchart LR
 | `10_prompt_injection_tester` | Adversarial prompt generator |
 | `11_guardrail_evaluator` | Guardrail behaviour analysis |
 | `12_response_analyzer` | LLM output security classification |
+| `13_live_llm_attack_tester` | Live attacks |
+| `14_multi_prompt_attack_runner` | Batch testing |
+| `15_multi_model_attack_comparator` | Model comparison |
+| `16_yaml_prompt_runner` | Config-driven execution |
+| `17_scoring_engine` | Quantitative scoring |
+| `18_report_exporter` | **Persistent reporting & exports** |
 
 ---
 
