@@ -164,7 +164,7 @@ I am transitioning into roles focused on:
 
 # 🤝 Let’s Connect
 
-- 💼 LinkedIn *(add your link here)*
+- 💼 LinkedIn /in/shanebhealy
 - 🔐 Cybersecurity & AI Security
 - 🤖 LLM Safety & Red Teaming
 - 🧠 Autonomous AI Systems
