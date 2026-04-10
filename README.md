@@ -16,6 +16,17 @@ I design and build **AI security testing systems, adversarial evaluation pipelin
 
 ---
 
+## 🔬 Featured Research
+
+### 🔐 LLM Security Face-Off (MSc Dissertation)
+A full-scale cybersecurity analysis of proprietary vs open-source LLMs using adversarial testing frameworks.
+
+- 6 models tested (GPT-4, Claude, Llama3.2, Mistral, Vicuna, DeepSeek)
+- 131 adversarial prompts per model
+- Evaluated across OWASP LLM Top 10 vulnerabilities
+
+👉 [View Project](https://github.com/Sadelco/llm-redteaming)
+
 # 🧠 AI Security Lab
 
 I’ve built a **multi-stage AI security testing lab** using CrewAI, evolving from simple agents into a full **LLM evaluation framework**.
